@@ -1,0 +1,7 @@
+*.pt
+*session_logs/
+*runs/
+*out/
+*ipynb_checkpoints/
+*launch*
+*pycache*
